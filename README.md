@@ -8,5 +8,4 @@
 
 <hr>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/212090014740250624)](https://discord.com/users/212090014740250624)
 
