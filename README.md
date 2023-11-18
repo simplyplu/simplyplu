@@ -1,4 +1,4 @@
-# Hey there, i'm [Plu](https://github.com/proxyplu) 👋
+# Hey there, i'm [Plu](https://github.com/notplu) 👋
 
 [![My Skills](https://skillicons.dev/icons?i=js,lua,eclipse,powershell,vscode)](https://skillicons.dev)
 
