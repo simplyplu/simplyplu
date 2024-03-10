@@ -4,7 +4,7 @@
 
 <hr>
 
-### You can view all of my projects [here](https://github.com/notplu?tab=repositories).
+### You can view all of my projects [here](https://github.com/simplyplu?tab=repositories).
 
 <hr>
 
